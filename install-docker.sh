@@ -22,7 +22,3 @@ sudo systemctl enable docker
 sudo systemctl start docker
 
 docker --version
-
-git add install-docker.sh
-git commit -m "Ajout installation des paquets Docker"
-git push origin main
